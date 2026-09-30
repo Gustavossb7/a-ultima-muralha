@@ -73,6 +73,3 @@ python3 -m http.server 8000
 - Novas skins/visuais para o mago
 - Modo cooperativo local
 
-## 📄 Licença
-
-Defina a licença do projeto aqui (ex.: MIT).
